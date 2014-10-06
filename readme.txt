@@ -1,3 +1,7 @@
+This code was written by Arjuna Rao and Conor Golden
+
+This is a simple implementation of a DNS client.
+
 Overall approach:
 We began by making structures for Header, Question, and Answer.  
 Then we proceeded to parse out the port if one is included.
